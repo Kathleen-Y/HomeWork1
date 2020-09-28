@@ -11,6 +11,7 @@ SO THAT our own site is optimized for search engines
 
 ## Language
 * HTML
+* CSS
 
 ## Contact
 * Homepage: [@profile](https://github.com/Kathleen-Y)
